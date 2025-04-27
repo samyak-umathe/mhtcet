@@ -1,0 +1,4 @@
+cd "C:\Users\msi i7\Documents\mhtcet"
+git add .
+git commit -m "Add all project files for Find Your College SaaS platform"
+git push
