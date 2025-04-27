@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+tabula-py
+google-generativeai
+python-multipart
+pdfplumber 
